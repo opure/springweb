@@ -1,4 +1,4 @@
-package com.oneler.springweb;
+package com.oneler;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

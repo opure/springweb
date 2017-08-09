@@ -1,4 +1,4 @@
-package com.oneler.springweb;
+package com.oneler;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
